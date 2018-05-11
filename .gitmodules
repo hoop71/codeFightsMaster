@@ -1,0 +1,3 @@
+[submodule "The"]
+	path = The
+	url = git@github.com:hoop71/codeFightsMaster.git
